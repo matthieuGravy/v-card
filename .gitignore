@@ -1,0 +1,18 @@
+# Dossiers et fichiers générés par Vite
+node_modules/
+dist/
+.eslintcache
+.vite/
+.cache/
+.env.local
+
+# Fichiers de configuration Vite
+vite.config.js
+
+# Dépendances Node.js
+package-lock.json
+yarn.lock
+
+# Fichiers système
+.DS_Store
+Thumbs.db
