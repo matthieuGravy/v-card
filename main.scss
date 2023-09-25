@@ -28,13 +28,16 @@
       margin: 0 auto;
       padding: 2rem;
       text-align: center;
-
       h1 {
         font-size: 3rem;
         letter-spacing: 0.2rem;
         line-height: 1.1;
         font-weight: 400;
         color: var(--color-5);
+        @media screen and (max-width: 500px) {
+          max-width: 80vw;
+          margin: auto;
+        }
         .w-600 {
           font-weight: 600;
         }
@@ -46,45 +49,39 @@
         color: var(--color-2);
         font-family: 400;
         font-size: 1.2rem;
-      }
-      a {
-        font-weight: 100;
-        color: var(--color-2);
-        text-decoration: inherit;
+        @media screen and (max-width: 500px) {
+          max-width: 80vw;
+          padding: 2%;
+        }
       }
 
       .logo {
         height: 20em;
         padding: 1.5em;
+        @media screen and (max-width: 500px) {
+          padding: 1%;
+          max-height: 15em;
+        }
       }
       .button-box {
+        text-align: center;
         display: grid;
-        margin: auto;
-        width: 30vw;
-        gap: 1em;
+        flex-direction: column;
+        justify-items: center;
+        gap: 1vh;
         .button {
+          width: 35vw;
           color: var(--color-2);
-          border: 2px solid var(--color-clair);
           background-color: var(--color-3);
           padding: 0.6rem 1rem;
           border-radius: 5px;
           letter-spacing: 0.1em;
-          transition: border-color 0.25s;
+          text-decoration: inherit;
           &:hover {
             opacity: 0.8;
           }
         }
       }
     }
-  }
-}
-
-@media (prefers-color-scheme: light) {
-  :root {
-    color: #213547;
-    background-color: #ffffff;
-  }
-  a button {
-    background-color: #f9f9f9;
   }
 }
