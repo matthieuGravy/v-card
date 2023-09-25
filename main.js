@@ -8,7 +8,7 @@ document.querySelector("#app").innerHTML = `
       <h1><span class="col-2">M</span>atthieu <span class="w-600"><span class="col-2">G</span>ravy</span></h1>
 
     <p>
-    <span>Web dev junior</spans>| <span>JS enthousiast </spans>  | <span>Ubuntu lover </spans>  | <span>#BeCode trainee </spans>   
+    <span>Web dev junior</span>| <span>JS enthousiast </span>  | <span>Ubuntu lover </span>  | <span>#BeCode trainee </span>   
     <br />
     </p>
     <div class="button-box">
@@ -16,8 +16,9 @@ document.querySelector("#app").innerHTML = `
     Linkedin
   </a>
   <a class="button " href="https://github.com/matthieuGravy" target="_blank">
-   gitHub
-</a>
+   gitHub</a>
+  <a  class="button"  href ="https//pommepatate.be" target="_blank">
+    pommepatate.be<a/>
 </div>
 
   </div>

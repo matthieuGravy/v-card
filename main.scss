@@ -69,10 +69,9 @@
           padding: 0.6rem 1rem;
           border-radius: 5px;
           letter-spacing: 0.1em;
-          font-family: var(--police-kalam);
           transition: border-color 0.25s;
-          .button:hover {
-            color: red;
+          &:hover {
+            opacity: 0.8;
           }
         }
       }
