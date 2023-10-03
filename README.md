@@ -19,16 +19,22 @@ It's a virtual business card that redirects to social media and a website.
 <br/>
 ## How to install it? 
 Navigate to the directory:
-<code>cd v-card</code>
+```sh
+cd v-card
+```
 
 <br/>
 
 Make sure you have Node.js version 18 LTS installed beforehand:
-<code>npm i</code>
+```sh
+npm i
+```
 <br/>
 
 And you can view the development version:
-<code>npm run dev</code>
+```sh
+npm run dev
+```
 <br/>
 
 Please note that the installation instructions assume Node.js version 18 LTS is already installed. If you need further assistance or have any other questions, feel free to ask!
