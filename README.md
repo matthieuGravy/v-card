@@ -10,7 +10,7 @@ By Matthieu Gravy
 <br/>
 <br/>
 ## Why create a v-card? 
-I created a v-card as part of a responsive project during my training at [BeCode.org](BeCode.org](https://becode.org/). Here, I aimed to maintain the theme of the website and keep it minimalistic.
+I created a v-card as part of a responsive project during my training at [BeCode.org](https://becode.org/). Here, I aimed to maintain the theme of the website and keep it minimalistic.
 <br/>
 <br/>
 ## Will the project evolve?
