@@ -49,6 +49,7 @@ Please note that the installation instructions assume Node.js version 18 LTS is 
 <br/>
 <br/>
 
+![walker](https://media2.giphy.com/media/Tg5uKmK96Mhi6QGS7S/giphy.gif?cid=ecf05e470q91q1hapv90wp9f4xbuf05t22zzyu9b47925hmn&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 <br/>
 <br/>
